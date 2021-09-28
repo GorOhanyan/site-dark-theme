@@ -1,7 +1,12 @@
 # Site_dark_theme
 Dark theme for the site via js
 
-Add your site
+Automatic dark theme for the site / Автоматическая темная тема для сайта
+
+To connect a dark theme to the site, download dark.js to your server and connect to the head of all pages
+Чтобы подключить темную тему к сайту, скачайте dark.js на ваш сервер и подключитесь к head всех страниц
+
+<script src="https://онлайн.net/black/dark.js"></script>
 
   <p onclick=disableDark() style="font-size:20px;">🌕</p>
     <p onclick=enableDark() style="font-size:20px;">🌑</p>
