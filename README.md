@@ -16,5 +16,5 @@ To connect a dark theme to the site, download dark.js to your server and connect
 <div style="display:flex">
   <p onclick=disableDark() style="font-size:20px;">🌕</p>
   <p onclick=enableDark() style="font-size:20px;">🌑</p>
-<div> 
+</div> 
 ```
